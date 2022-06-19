@@ -1,12 +1,8 @@
-## Hi there 👋
+## 中原科技网开发者社区
+中原科技网开发者社区是[中原科技网](www.zzkpnews.com)下辖的软件开发者协作交流平台。创办于2022年5月。
 
-<!--
+中原科技网开发者社区主要注重于科普传媒平台智能化方向：大数据和人工智能在传统传媒平台中的扩展应用，为传媒业注入活力，探求新的传媒平台模式。
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<details>
+中原科技网创办于2015年9月，是中原地区最开放的科技、人文自助网络服务平台。平台注重传播中原经济、文化、科技、教育等领域的重大事件、发展态势和市场动态，积极宣传各级政府发展经济、科技、文化的政策和成果，传递社会经济文化产业及企业动态，逐步成为中原地区深受社会各界信赖的开放型综合网络资讯服务平台。
+</details>
