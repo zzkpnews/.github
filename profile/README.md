@@ -1,5 +1,5 @@
 ## Developer community for zzkpnews
-The Developer Community is the collaboration and communication platform for software developers under the [Zhongyuan Technology Website] (www.zzkpnews.com). Launched in May 2022.
+The Developer Community is the collaboration and communication platform for software developers under the [Zhongyuan Technology Website](www.zzkpnews.com). Launched in May 2022.
 
 The developer community of Zhongyuan Science and Technology Website mainly focuses on the intelligent direction of the popular science media platform: the expanded application of big data and artificial intelligence in traditional media platforms, injecting vitality into the media industry, and exploring new media platform models.
 
