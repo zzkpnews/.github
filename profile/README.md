@@ -1,12 +1,12 @@
-## 中原科技网开发者社区
-中原科技网开发者社区是[中原科技网](www.zzkpnews.com)下辖的软件开发者协作交流平台。创办于2022年5月。
+## Developer community for zzkpnews
+The Developer Community is the collaboration and communication platform for software developers under the [Zhongyuan Technology Website] (www.zzkpnews.com). Launched in May 2022.
 
-中原科技网开发者社区主要注重于科普传媒平台智能化方向：大数据和人工智能在传统传媒平台中的扩展应用，为传媒业注入活力，探求新的传媒平台模式。
+The developer community of Zhongyuan Science and Technology Website mainly focuses on the intelligent direction of the popular science media platform: the expanded application of big data and artificial intelligence in traditional media platforms, injecting vitality into the media industry, and exploring new media platform models.
 
-目前主要钻研课题为：
-+ 汉语言处理
-+ 大数据在传媒业中的应用
+At present, the main research topics are:
++ Chinese Language Processing
++ The application of big data in the media industry
 
 <details>
-中原科技网创办于2015年9月，是中原地区最开放的科技、人文自助网络服务平台。平台注重传播中原经济、文化、科技、教育等领域的重大事件、发展态势和市场动态，积极宣传各级政府发展经济、科技、文化的政策和成果，传递社会经济文化产业及企业动态，逐步成为中原地区深受社会各界信赖的开放型综合网络资讯服务平台。
+Founded in September 2015, Zhongyuan Science and Technology Website is the most open technology and humanities self-service network service platform in China Zhongyuan area. The platform focuses on the dissemination of major events, development trends and market trends in the economy, culture, science and technology, education and other fields of the Central Plains, actively publicizes the policies and achievements of governments at all levels to develop economy, science and technology, culture, and deliver the social, economic, cultural industries and enterprise trends, and gradually becomes an open and comprehensive network information service platform trusted by all sectors of the society in the Central Plains.
 </details>
